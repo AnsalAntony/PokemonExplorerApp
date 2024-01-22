@@ -6,6 +6,7 @@ import CardContent from "@mui/material/CardContent";
 import Typography from "@mui/material/Typography";
 import CardMedia from '@mui/material/CardMedia';
 import { Box } from "@mui/material";
+import { ICON_BASE_URL } from "../config";
 
 const CommonCard = ({
   CardContentStyl,
@@ -38,7 +39,7 @@ const CommonCard = ({
        <div style={{alignItems:"center",justifyContent:"center", display:"flex", flexDirection:"row"}}>
         <CardMedia
         sx={{ height: 150, width:150}}
-        image={"https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/" + iconId + ".png"} 
+        image={ICON_BASE_URL + iconId + ".png"} 
         title={titleText}
       />
     </div>
