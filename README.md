@@ -28,6 +28,7 @@ You may also see any lint errors in the console.
 Screenshot for referance.
 <img width="1440" alt="Screenshot 2024-01-22 at 11 45 07 PM" src="https://github.com/AnsalAntony/PokemonExplorerApp/assets/57831689/c98465e0-d6d3-49ea-9020-50d9aaebafaa">
 <img width="1440" alt="Screenshot 2024-01-22 at 11 45 18 PM" src="https://github.com/AnsalAntony/PokemonExplorerApp/assets/57831689/da165afe-e0ea-4759-8064-1fdd14d9bc9f">
-<img width="1116" alt="Screenshot 2024-01-22 at 11 50 28 PM" src="https://github.com/AnsalAntony/PokemonExplorerApp/assets/57831689/6fd90484-81e0-4c02-9f27-0e6d4312ecd0">
+<img width="1437" alt="Screenshot 2024-01-22 at 11 44 54 PM" src="https://github.com/AnsalAntony/PokemonExplorerApp/assets/57831689/83d4371f-543a-426b-b9f0-37c03d8217d5">
+
 
 
